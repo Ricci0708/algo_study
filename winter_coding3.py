@@ -30,4 +30,4 @@ def solution(cookie):
     return answer
 
 
-print(solution([1,1,2,3]))
+print(solution([1,1,2,3,1,1,1,1,9]))
